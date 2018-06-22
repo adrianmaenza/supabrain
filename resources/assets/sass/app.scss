@@ -1,0 +1,19 @@
+
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600');
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+
+// Variables
+@import "variables";
+
+// Materialize
+@import '~materialize-css/sass/materialize';
+
+// Custom css
+
+@import '/css/main.css';
+
+.navbar-laravel {
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
+}
