@@ -8,7 +8,7 @@
     export default {
         data(){
             return {
-                src: 'images/image-1.jpg'
+                src: '/images/image-1.jpg'
             }
         }
     }

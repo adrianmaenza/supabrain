@@ -16,7 +16,7 @@
         <meta property="og:image" content="https://www.supbraincollege.com/images/sbc.jpg">
         <title>Supabrain College - @yield('title')</title>
 
-        <link href="css/main.css" rel="stylesheet" type="text/css"/>
+        <link href="{{ asset( 'css/main.css' ) }}" rel="stylesheet" type="text/css"/>
         
         <link href="{{ asset( 'css/app.css' ) }}" rel="stylesheet" type="text/css"/>
     </head>

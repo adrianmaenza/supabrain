@@ -18,19 +18,19 @@
                 </div>
                 <div class="flex-container">
                     <div class="flex-item">
-                        <a href="http://abma.uk.com/" alt="abma" target="_blank"><img src="images/abma-logo.gif" alt="" class="institution-logo shadow hoverable"/></a>
+                        <a href="http://abma.uk.com/" alt="abma" target="_blank"><img src="{{ asset('images/abma-logo.gif') }}" alt="" class="institution-logo shadow hoverable"/></a>
                     </div>
                     <div class="flex-item">                     
-                        <a href="http://www.cityandguilds.com/" alt="city" target="_blank"><img src="images/city-logo.gif" alt="" class="institution-logo shadow hoverable"/></a>
+                        <a href="http://www.cityandguilds.com/" alt="city" target="_blank"><img src="{{ asset('images/city-logo.gif') }}" alt="" class="institution-logo shadow hoverable"/></a>
                     </div>
                     <div class="flex-item">
-                        <a href="http://abeuk.com/" alt="abma" target="_blank"><img src="images/abe-logo.gif" alt="" class="institution-logo shadow hoverable"/></a>
+                        <a href="http://abeuk.com/" alt="abma" target="_blank"><img src="{{ asset('images/abe-logo.gif') }}" alt="" class="institution-logo shadow hoverable"/></a>
                     </div> 
                     <div class="flex-item">
-                        <a href="http://www.bqa.org.bw/" alt="abma" target="_blank"><img src="images/bota-3.jpg" alt="" class="institution-logo shadow hoverable"/></a>
+                        <a href="http://www.bqa.org.bw/" alt="abma" target="_blank"><img src="{{ asset('images/bota-3.jpg') }}" alt="" class="institution-logo shadow hoverable"/></a>
                     </div> 
                     <div class="flex-item">
-                        <a href="http://www.zim.ac.zw/" alt="zim" target="_blank"><img src="images/zim-logo.gif" alt="" class="institution-logo shadow hoverable"/></a>
+                        <a href="http://www.zim.ac.zw/" alt="zim" target="_blank"><img src="{{ asset('images/zim-logo.gif') }}" alt="" class="institution-logo shadow hoverable"/></a>
                     </div>
                 </div>
                 <br>
