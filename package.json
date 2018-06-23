@@ -19,6 +19,7 @@
         "vue": "^2.5.7"
     },
     "dependencies": {
-        "materialize-css": "^1.0.0-rc.1"
+        "materialize-css": "^1.0.0-rc.1",
+        "vuetify": "^1.0.19"
     }
 }

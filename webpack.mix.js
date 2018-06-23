@@ -28,5 +28,6 @@ mix.webpackConfig(webpack => {
 
 mix.setPublicPath('public_html')
    .copy('resources/assets/css/main.css', 'public_html/css')
+   .copy('node_modules/vuetify/dist/vuetify.min.css', 'public_html/css')
    .js('resources/assets/js/app.js', 'js')
    .sass('resources/assets/sass/app.scss', 'css');

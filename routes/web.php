@@ -23,6 +23,4 @@ Route::view('/about-us', 'about.index')->name('about');
 Route::view('/contact-us', 'contact.index')->name('contact');
 Route::view('/feedback', 'feedback.index')->name('feedback');
 
-Route::get('profile', function(){
-    return 'This is the profile';
-});
+Route::view('profile', 'profile.index');
